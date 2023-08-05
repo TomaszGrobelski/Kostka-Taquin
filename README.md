@@ -20,18 +20,18 @@ Przesuwaj klocki, aby poukładać liczby od 1 do 24 w kolejności rosnącej.
 Spróbuj ułożyć puzzle z jak najmniejszą liczbą ruchów i jak najszybciej.
 
 ## Technologie:
--HTML
--CSS
--JavaScript
+HTML,
+CSS,
+JavaScript. 
 Instalacja i uruchamianie lokalnie:
 Sklonuj to repozytorium:
-bash
-Copy code
-git clone https://github.com/twoj-uzytkownik/taquin-5x5.git
+bash =>
+Copy code =>
+git clone https://github.com/twoj-uzytkownik/taquin-5x5.git =>
 Wejdź do folderu projektu:
-bash
-Copy code
-cd taquin-5x5
+bash =>
+Copy code =>
+cd taquin-5x5 =>
 Otwórz plik index.html w przeglądarce.
 
 ## Autor:
