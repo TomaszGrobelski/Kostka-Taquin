@@ -22,17 +22,17 @@ Spróbuj ułożyć puzzle z jak najmniejszą liczbą ruchów i jak najszybciej.
 ## Technologie:
 - HTML
 - CSS
-JavaScript. 
-Instalacja i uruchamianie lokalnie:
+- JavaScript 
+## Instalacja i uruchamianie lokalnie:
 Sklonuj to repozytorium:
-bash =>
-Copy code =>
-git clone https://github.com/twoj-uzytkownik/taquin-5x5.git =>
-Wejdź do folderu projektu:
-bash =>
-Copy code =>
-cd taquin-5x5 =>
-Otwórz plik index.html w przeglądarce.
+1. bash 
+2. Copy code 
+3. git clone https://github.com/twoj-uzytkownik/taquin-5x5.git 
+4. Wejdź do folderu projektu
+5. bash 
+6. Copy code 
+7. cd taquin-5x5 
+8. Otwórz plik index.html w przeglądarce
 
 ## Autor:
 Grobelski Tomasz
