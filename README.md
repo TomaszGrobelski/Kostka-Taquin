@@ -1,4 +1,5 @@
 Gra Taquin 5x5
+
 ![Opis obrazka](Taquin.png)
 
 Opis
