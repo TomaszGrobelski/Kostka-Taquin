@@ -12,12 +12,10 @@ Demo
 Funkcje
 Plansza 5x5 z losowo wymieszanymi liczbami od 1 do 24.
 Możliwość przesuwania klocków w puste miejsce.
-Licznik ruchów - śledzi liczbę wykonanych ruchów.
-Wyświetlanie czasu gry.
 Sprawdzanie, czy puzzle zostało ułożone poprawnie.
 Możliwość rozpoczęcia nowej gry.
 Jak grać
-Otwórz grę Taquin 5x5 na stronie example.com/taquin.
+Otwórz grę Taquin 5x5 na stronie [example.com/taquin.](https://tomaszgrobelski.github.io/Kostka-Taquin/kostka.html)
 Przesuwaj klocki, aby poukładać liczby od 1 do 24 w kolejności rosnącej.
 Spróbuj ułożyć puzzle z jak najmniejszą liczbą ruchów i jak najszybciej.
 Technologie
