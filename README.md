@@ -20,8 +20,8 @@ Przesuwaj klocki, aby poukładać liczby od 1 do 24 w kolejności rosnącej.
 Spróbuj ułożyć puzzle z jak najmniejszą liczbą ruchów i jak najszybciej.
 
 ## Technologie:
-HTML,
-CSS,
+- HTML
+- CSS
 JavaScript. 
 Instalacja i uruchamianie lokalnie:
 Sklonuj to repozytorium:
