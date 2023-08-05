@@ -18,11 +18,11 @@ Jak grać
 Otwórz grę Taquin 5x5 na stronie [Kostka-Taquin](https://tomaszgrobelski.github.io/Kostka-Taquin/kostka.html)
 Przesuwaj klocki, aby poukładać liczby od 1 do 24 w kolejności rosnącej.
 Spróbuj ułożyć puzzle z jak najmniejszą liczbą ruchów i jak najszybciej.
-Technologie
-HTML
-CSS
-JavaScript
-Instalacja i uruchamianie lokalnie
+Technologie:
+-HTML
+-CSS
+-JavaScript
+Instalacja i uruchamianie lokalnie:
 Sklonuj to repozytorium:
 bash
 Copy code
@@ -33,7 +33,6 @@ Copy code
 cd taquin-5x5
 Otwórz plik index.html w przeglądarce.
 Autor
-John Doe
+Grobelski Tomasz
 
-Licencja
-Ten projekt jest udostępniany na licencji MIT.
+
