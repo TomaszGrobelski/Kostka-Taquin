@@ -15,7 +15,7 @@ Możliwość przesuwania klocków w puste miejsce.
 Sprawdzanie, czy puzzle zostało ułożone poprawnie.
 Możliwość rozpoczęcia nowej gry.
 Jak grać
-Otwórz grę Taquin 5x5 na stronie [example.com/taquin.](https://tomaszgrobelski.github.io/Kostka-Taquin/kostka.html)
+Otwórz grę Taquin 5x5 na stronie [Kostka-Taquin](https://tomaszgrobelski.github.io/Kostka-Taquin/kostka.html)
 Przesuwaj klocki, aby poukładać liczby od 1 do 24 w kolejności rosnącej.
 Spróbuj ułożyć puzzle z jak najmniejszą liczbą ruchów i jak najszybciej.
 Technologie
