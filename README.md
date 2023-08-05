@@ -27,7 +27,7 @@ Spróbuj ułożyć puzzle z jak najmniejszą liczbą ruchów i jak najszybciej.
 Sklonuj to repozytorium:
 1. bash 
 2. Copy code 
-3. git clone https://github.com/twoj-uzytkownik/taquin-5x5.git 
+3. git clone https://github.com/TomaszGrobelski/Kostka-Taquin 
 4. Wejdź do folderu projektu
 5. bash 
 6. Copy code 
