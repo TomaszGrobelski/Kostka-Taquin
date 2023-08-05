@@ -5,7 +5,8 @@ Opis
 Gra Taquin to popularna łamigłówka, w której pole do gry jest podzielone na siatkę 5x5, a gracz musi przesuwać klocki, aby poukładać liczby od 1 do 24 w kolejności rosnącej. Jedno pole na planszy pozostaje puste, co pozwala na przemieszczanie klocków na puste miejsce.
 
 Demo
-Link do gry Taquin 5x5
+[Link do gry Taquin 5x5](https://tomaszgrobelski.github.io/Kostka-Taquin/kostka.html)
+
 
 Funkcje
 Plansza 5x5 z losowo wymieszanymi liczbami od 1 do 24.
